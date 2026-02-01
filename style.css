@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background: linear-gradient(135deg, #ff758c, #ff7eb3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.card {
+  background: rgba(255,255,255,0.15);
+  backdrop-filter: blur(12px);
+  padding: 30px;
+  border-radius: 20px;
+  text-align: center;
+  color: white;
+  width: 320px;
+}
+
+.hidden {
+  display: none;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#yes {
+  background: #ff4d6d;
+  color: white;
+}
+
+#no {
+  background: white;
+  color: #ff4d6d;
+}
+
