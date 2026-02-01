@@ -35,6 +35,12 @@ button {
   background: #ff4d6d;
   color: white;
 }
+#gif {
+  width: 200px;
+  margin-top: 15px;
+  border-radius: 15px;
+}
+
 
 #no {
   background: white;
