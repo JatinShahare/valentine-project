@@ -47,3 +47,10 @@ button {
   color: #ff4d6d;
 }
 
+.no-hint {
+  font-size: 12px;
+  opacity: 0.8;
+  margin-top: 5px;
+  font-style: italic;
+}
+
