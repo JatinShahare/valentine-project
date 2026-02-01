@@ -31,7 +31,7 @@ noBtn.addEventListener("mouseover", () => {
 });
 
 yesBtn.addEventListener("click", () => {
-  final.innerHTML = "YAYYYY 💕 I knew it 😘 Happy Valentine’s Day!";
+  final.innerHTML = "Happy Valentine’s Day💖";
   buttons.style.display = "none";
 
   const gif = document.getElementById("gif");
