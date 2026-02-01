@@ -21,6 +21,7 @@ function showMessages() {
     setTimeout(showMessages, 1800);
   } else {
     buttons.classList.remove("hidden");
+    document.getElementById("noHint").classList.remove("hidden");
   }
 }
 
