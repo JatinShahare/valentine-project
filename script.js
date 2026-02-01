@@ -5,10 +5,7 @@ const noBtn = document.getElementById("no");
 const final = document.getElementById("final");
 
 const messages = [
-  "Hey you 💕",
-  "I’ve been wanting to ask you something...",
-  "You make my days brighter 🌸",
-  "So here it goes...",
+  "Hey Ananya 💕",
   "Will you be my Valentine? 💖"
 ];
 
